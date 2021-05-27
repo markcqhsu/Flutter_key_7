@@ -1,17 +1,7 @@
-# temp_flutter_key_5
+# Flutter 教程实例
 
-A new Flutter project.
+課程網址：https://space.bilibili.com/589533168/channel/detail?cid=149817&ctype=0
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_key_7
+非常推薦的課程～
+這個老師上的淺顯易懂, 
+真的是滿滿的乾貨.
